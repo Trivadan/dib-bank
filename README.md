@@ -1,2 +1,2 @@
-# dib-bank
+# Dib-bank
 Banking Website 
